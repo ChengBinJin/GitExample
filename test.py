@@ -3,7 +3,7 @@ print('try again!')
 
 
 def foo():
-    msg = "B"
+    msg = "C"
     return msg
 
 
