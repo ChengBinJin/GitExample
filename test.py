@@ -3,7 +3,8 @@ print('try again!')
 
 
 def foo():
-    print('foo!')
+    msg = "A"
+    return msg
 
 
 foo()
